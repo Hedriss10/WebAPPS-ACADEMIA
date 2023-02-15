@@ -1,0 +1,1 @@
+docker run --name dbapp -e POSTGRES_PASSWORD=Binfae@45 -d -p 5432:5432 postgres

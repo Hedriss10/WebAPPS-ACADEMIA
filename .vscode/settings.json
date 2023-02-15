@@ -5,7 +5,7 @@
             "server": "localhost",
             "port": 5432,
             "driver": "PostgreSQL",
-            "name": "WebApp",
+            "name": "dbapp",
             "database": "postgres",
             "username": "postgres"
         }
